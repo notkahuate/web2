@@ -7,7 +7,7 @@ const noBtnRect = noBtn.getBoundingClientRect();
 
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'YEII TE AMO ATT:STIVEN';
+    question.innerHTML = 'GRACIASS MADRINA';
 
 });
 
